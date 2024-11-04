@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:-1,CARACOL HD
+http://190.60.49.244:4000/play/a09c
+#EXTINF:-1,RCN HD
+http://190.60.49.244:4000/play/a04j
+#EXTINF:-1,A&E HD
+http://190.60.49.244:4000/play/a06k
+#EXTINF:-1,AXN
+http://190.60.49.244:4000/play/a06n
+#EXTINF:-1,Animal Planet HD
+http://207.248.3.81:8081/play/a0jt
+#EXTINF:-1,Cartoon Network HD
+http://190.60.49.244:4000/play/a04u
+#EXTINF:-1,Cinecanal HD
+http://190.60.49.244:4000/play/a04p
+#EXTINF:-1,Cinemax HD
+http://190.60.49.244:4000/play/a075
+#EXTINF:-1,Discovery H&H
+http://190.60.49.244:4000/play/a03r
+#EXTINF:-1,Discovery H&H HD
+http://190.60.49.244:4000/play/a046
+#EXTINF:-1,Discovery HD
+http://190.60.49.244:4000/play/a07y
+#EXTINF:-1,Discovery Kids HD
+http://190.60.49.244:4000/play/a045
+#EXTINF:-1,Discovery Theater HD
+http://190.60.49.244:4000/play/a047
+#EXTINF:-1,Discovery Turbo
+http://190.60.49.244:4000/play/a065
+#EXTINF:-1,Disney Channel
+http://190.60.49.244:4000/play/a063
+#EXTINF:-1,Disney Junior
+http://190.60.49.244:4000/play/a03p
+#EXTINF:-1,E! HD
+http://190.60.49.244:4000/play/a07e
+#EXTINF:-1,FX HD
+http://190.60.49.244:4000/play/a04h
+#EXTINF:-1,Golden HD
+http://190.60.49.244:4000/play/a07a
+#EXTINF:-1,History Channel HD
+http://190.60.49.244:4000/play/a06j
+#EXTINF:-1,HBO HD
+http://190.60.49.244:4000/play/a04s
+#EXTINF:-1,HBO 2 HD
+http://190.60.49.244:4000/play/a04z
+#EXTINF:-1,HBO Family HD
+http://190.60.49.244:4000/play/a081
+#EXTINF:-1,HBO XTREME HD
+http://190.60.49.244:4000/play/a082
+#EXTINF:-1,Lifetime
+http://190.60.49.244:4000/play/a06e
+#EXTINF:-1,Nat Geo HD
+http://190.60.49.244:4000/play/a04n
+#EXTINF:-1,Nick HD
+http://190.60.49.244:4000/play/a06u
+#EXTINF:-1,Nick Jr
+http://190.60.49.244:4000/play/a08a
+#EXTINF:-1,Paramount HD
+http://190.60.49.244:4000/play/a04v
+#EXTINF:-1,STAR CHANNEL HD
+http://190.60.49.244:4000/play/a048
+#EXTINF:-1,STAR CHANNEL HD
+http://190.60.49.244:4000/play/a07r
+#EXTINF:-1,Sony HD
+http://190.60.49.244:4000/play/a06l
+#EXTINF:-1,Space HD
+http://190.60.49.244:4000/play/a06o
+#EXTINF:-1,Studio Universal HD
+http://190.60.49.244:4000/play/a04w
+#EXTINF:-1,SyFy
+http://177.93.41.82:45000/play/a00q/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.60.49.244:4000/play/a06z
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://190.60.49.244:4000/play/a049
+#EXTINF:-1,Warner Channel HD
+http://190.60.49.244:4000/play/a06m
+#EXTINF:-1,Win Sports+ HD
+http://190.60.49.244:4000/play/a050
