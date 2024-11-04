@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,CARACOL HD
+#EXTINF:-1,Caracol TV
 http://190.60.49.244:4000/play/a09c
 #EXTINF:-1,RCN HD
 http://190.60.49.244:4000/play/a04j
